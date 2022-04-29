@@ -1,0 +1,22 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "Code samples from the book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ex-jedi/new-css-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ex-jedi/new-css-layout/issues"
+  },
+  "homepage": "https://github.com/ex-jedi/new-css-layout#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
