@@ -2,9 +2,10 @@
   "name": "css",
   "version": "1.0.0",
   "description": "Code samples from the book",
-  "main": "index.js",
+  "source": "/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
